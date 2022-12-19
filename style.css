@@ -1,0 +1,197 @@
+body {
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.top {
+  background-image: url(img/women_engineeringx.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.top h1 {
+  font-size: 50px;
+  text-shadow: 2px 2px 5px black;
+  line-height: 30px;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold
+}
+
+.primary {
+  background-color: #6ab04c;
+}
+
+.facebook {
+  background-color: #30336b;
+  margin-right: 60px;
+}
+
+.twitter {
+  background-color: #4bcffa;
+  margin-left: 60px;
+}
+
+.btn-wrapper {
+  margin-top: 50px;
+}
+
+.btn-wrapper p {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.fa {
+  margin-right: 10px
+}
+
+nav {
+  background-color: rgb(95, 95, 95);
+  height: 88px;
+}
+
+.nav-left {
+  float: left
+}
+
+.nav-right {
+  float: right
+}
+
+.nav-right img {
+  width: 50px;
+  margin-top: 20px;
+}
+
+.nav-left a {
+  color: white;
+  font-weight: bold;
+  margin-right: 30px;
+  text-decoration: none;
+  line-height: 88px
+}
+
+.bg {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.html {
+  background-color: #05c46b;
+}
+
+.js {
+  background-color: #ffa801;
+}
+
+.ruby {
+  background-color: #f53b57;
+}
+
+.php {
+  background-color: #0fbcf9;
+}
+
+.lesson-wrapper {
+  text-align: center;
+  margin-top: 50px;
+  height: 500px;
+}
+
+.lesson {
+  width: 25%;
+  float: left;
+}
+
+.lessons {
+  margin-top: 50px;
+}
+
+.lesson p {
+  font-size: 13px;
+}
+
+.lesson-icon h3 {
+  position: absolute;
+  top: 70px;
+  width: 100%;
+  color: white;
+}
+
+.lesson-icon {
+  position: relative;
+}
+
+.message {
+  text-align: center;
+  background-color: #fbfbfb;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.msg {
+  background-color: #6ab04c;
+  padding: 15px 30px;
+  box-shadow: 0px 10px #4c904c;
+}
+
+.msg:active {
+  box-shadow: none;
+  top: 10px;
+  position: relative;
+}
+
+.message h2 {
+  margin-bottom: 50px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  height: 200px;
+}
+
+.content ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.content a {
+  color: white;
+  text-decoration: none;
+}
+
+.content a i {
+  font-size: 30px;
+}
+
+.content img {
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+.content {
+  width: 20%;
+  float: left;
+  margin-left: 120px;
+}
